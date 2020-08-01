@@ -4,7 +4,7 @@
 
 Create a Swing GUI application that displays the following graphics of red and blue lego blocks. The tower is always built from bottom row to top row, left to right in each row.
 
-![Alt text](https://github.com/lavivien-ds-algo/stackBlackoutMath/blob/master/blackout-math.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/legoMania/blob/master/image1.jpg?raw=true "Title")
 
 Write a class named Legos1 extending the JFrame class with the following specifications.
 
@@ -30,10 +30,10 @@ For picking the next color for the block, use a java.util.Random object and gene
 
 Since the colors are picked at random, the output varies for each invocation. A sample output is shown below.
 
-![Alt text](https://github.com/lavivien-ds-algo/stackBlackoutMath/blob/master/blackout-math.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/legoMania/blob/master/image2.jpg?raw=true "Title")
 
 ## part 3
 
 Modify part2 and write the Legos3 version so that the same color is not picked consecutively. A sample output is shown below.
 
-![Alt text](https://github.com/lavivien-ds-algo/stackBlackoutMath/blob/master/blackout-math.jpg?raw=true "Title")
+![Alt text](https://github.com/lavivien-cs-projects/legoMania/blob/master/image3.jpg?raw=true "Title")
